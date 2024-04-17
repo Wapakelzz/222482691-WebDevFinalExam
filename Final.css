@@ -1,16 +1,16 @@
-/* Reset some default browser styles */
+
 body, h1, h2, p, ul, li {
     margin: 0;
     padding: 0;
 }
 
-/* Body styles */
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
 }
 
-/* Header styles */
+
 header {
     background-color: #333;
     color: #fff;
@@ -18,7 +18,7 @@ header {
     text-align: center;
 }
 
-/* Navigation styles */
+
 nav {
     background-color: #666;
     padding: 10px 0;
@@ -46,7 +46,7 @@ nav ul li a:hover {
     border-radius: 5px;
 }
 
-/* Main styles */
+
 main {
     display: flex;
     flex-direction: column;
@@ -62,7 +62,7 @@ section {
     margin: 20px 0;
 }
 
-/* Footer styles */
+
 footer {
     background-color: #333;
     color: #fff;
@@ -70,7 +70,7 @@ footer {
     text-align: center;
 }
 
-/* Media queries for responsiveness */
+
 @media screen and (max-width: 768px) {
     nav ul li {
         display: block;
